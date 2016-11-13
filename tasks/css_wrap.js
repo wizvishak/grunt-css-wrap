@@ -15,8 +15,7 @@
 'use strict';
 
 var
-  css_wrap = require( 'css-wrap' ),
-  chalk = require( 'chalk' );
+  css_wrap = require( 'css-wrap' );
 
 module.exports = function( grunt ) {
 	grunt.registerMultiTask( 'css_wrap', 'Wrap CSS rules in a namespace', function() {

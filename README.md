@@ -3,8 +3,6 @@
 > Wrap CSS rules in a namespace
 
 ## Getting Started
-This plugin requires Grunt `~0.4.5`
-
 If you haven't used [Grunt](http://gruntjs.com/) before, be sure to check out the [Getting Started](http://gruntjs.com/getting-started) guide, as it explains how to create a [Gruntfile](http://gruntjs.com/sample-gruntfile) as well as install and use Grunt plugins. Once you're familiar with that process, you may install this plugin with this command:
 
 ```shell
@@ -64,6 +62,7 @@ css_wrap: {
 In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
 
 ## Release History
+ -  1.0.0: First official release for Grunt 1.0.0.
  -  0.1.3: Fixed wrong dependency for module css-wrap.
  -  0.1.2: Moved business to separate module [css-wrap](https://github.com/benignware/css-wrap)
  -  0.1.1: Updated to enable processing of media queries
